@@ -36,12 +36,12 @@ function App() {
               <ul className="flex space-x-6">
                 <li><a href="#features" className="hover:text-blue-200">Features</a></li>
                 <li><a href="#" className="hover:text-blue-200">Docs</a></li>
-                <li><a href="#" className="hover:text-blue-200">Pricing</a></li>
+                <li><a href="#" className="hover:text-blue-200">Open Source</a></li>
               </ul>
             </nav>
           </div>
           <div className="mt-16 text-center">
-            <h2 className="text-4xl font-bold mb-4">Backend as a Service Framework</h2>
+            <h2 className="text-4xl font-bold mb-4">Open Source Backend as a Service Framework (coming soon)</h2>
             <p className="text-xl mb-8">Build scalable, real-time applications with ease</p>
             <a href="#" className="bg-white text-blue-600 px-6 py-3 rounded-full font-semibold hover:bg-blue-100 transition duration-300">Get Started</a>
           </div>
