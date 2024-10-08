@@ -1,5 +1,5 @@
 import React from 'react';
-import { Database, Users, Shield, Zap, Globe, Code, Server, Function } from 'lucide-react';
+import { Database, Users, Shield, Zap, Globe, Code, Server, Parentheses } from 'lucide-react';
 
 const features = [
   { icon: Database, name: 'Multiple Databases', description: 'Supports RethinkDB and SurrealDB' },
@@ -7,7 +7,7 @@ const features = [
   { icon: Users, name: 'Authentication', description: 'Robust authentication system' },
   { icon: Shield, name: 'Multi-level Authorization', description: 'Role, table, database, and namespace level' },
   { icon: Globe, name: 'Multi-tenant Support', description: 'Designed for multi-tenant applications' },
-  {icon: Function, name: 'Extend with your backend', description: 'write your custom functionality since it is just a framework by default'},
+  {icon: Parentheses, name: 'Extend with your backend', description: 'write your custom functionality since it is just a framework by default'},
   { icon: Code, name: 'Multiple SDKs', description: 'Support for web and mobile frameworks' },
 ];
 
